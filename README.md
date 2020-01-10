@@ -16,4 +16,5 @@
 * `cd PROJECTNAME` 후 `npm install`
 * 10분정도 기다린다!!(싸지방ㅠㅠㅠㅠㅠㅠㅠ)
 * `yarn start`
+* 만약 <b>spawn cmd ENOENT</b> 에러가 발생하면 <br />`npm install react-scripts@2.1.8` 후 기다리기....그리고 `yarn start`
 * 끝!
