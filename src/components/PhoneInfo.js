@@ -16,7 +16,7 @@ class PhoneInfo extends Component{
 			margin: '8px'
 		};
 
-		const { name, phone, id } = this.props.info;
+		const {name, phone, id} = this.props.info;
 		
 		return (
 			<div style={style}>
