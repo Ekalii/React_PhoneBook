@@ -4,6 +4,7 @@
 * JavaScript ES6 문법 정리 https://jsdev.kr/t/es6/2944
 * 내가봤을 때 JavaScript ES6 부터 하는게 나을 것 같다...,
 ## 설치해야할 것들
+* ~~ 강심장이면 다 설치할 수 있음!!!! ~~
 * Sublime Text3 설치 https://www.sublimetext.com/3
 * Node.js 설치 https://nodejs.org/ko/
 * Git Bash 설치 https://gitforwindows.org
