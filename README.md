@@ -1,4 +1,4 @@
-# 군대에서 리엑트 공부하기!!!
+# 군대에서 리액트 공부하기!!!
 ## 강의
 * 강의 https://velopert.com/3613
 * JavaScript ES6 문법 정리 https://jsdev.kr/t/es6/2944
